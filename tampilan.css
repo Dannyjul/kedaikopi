@@ -1,0 +1,32 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+html, body, section
+{
+    height: 100%;
+    scroll-behavior: smooth;
+    transition: 2s;
+}
+
+section
+{
+    padding: 80px;
+}
+
+#home
+{
+    background-color: dodgerblue;
+    color: white;
+}
+
+#tentang
+{
+    background-color: chocolate;
+    color: white;
+}
+
